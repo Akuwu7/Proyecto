@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luana\\Desktop\\Proyecto\\SoteloLuana\\SoteloLuana\\SoteloLuana.csproj",
-      "projectName": "SoteloLuana",
-      "projectPath": "C:\\Users\\Luana\\Desktop\\Proyecto\\SoteloLuana\\SoteloLuana\\SoteloLuana.csproj",
+      "projectUniqueName": "G:\\Documentos TLS\\TALLER 3D\\SoteloLuana\\Sotelo_Luana\\Sotelo_Luana.csproj",
+      "projectName": "Sotelo_Luana",
+      "projectPath": "G:\\Documentos TLS\\TALLER 3D\\SoteloLuana\\Sotelo_Luana\\Sotelo_Luana.csproj",
       "packagesPath": "C:\\Users\\Luana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luana\\Desktop\\Proyecto\\SoteloLuana\\SoteloLuana\\obj\\",
+      "outputPath": "G:\\Documentos TLS\\TALLER 3D\\SoteloLuana\\Sotelo_Luana\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luana\\AppData\\Roaming\\NuGet\\NuGet.Config",

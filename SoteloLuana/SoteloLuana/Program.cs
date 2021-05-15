@@ -1,12 +1,28 @@
 ﻿using System;
 
-namespace SoteloLuana
+namespace Sotelo_Luana
 {
-    class Program
+    public class Program
+
     {
-        static void Main(string[] args)
+            public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hola, este es el explorador de componentes de computadora. ¿Qué desea ver?");
+            Console.WriteLine("1 - Periféricos");
+            Console.WriteLine("2 - Almacenamiento");
+            string opcion = Console.ReadLine();
+            switch (opcion)
+            {
+                case "1":
+                    Periféricos.Seleccionado();
+                    break;
+
+                case "2":
+                    Almacenamiento.Seleccionado2();
+                    break;
+                    
+            }
         }
     }
 }
+
